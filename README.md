@@ -9,6 +9,7 @@ Here we are going to evaluate the following techs:
  - **Orchestration**
  - **Coding Skills**
  - **Documentation organization**
+ - **Python**
 
 
 # What is OpsGuru Tech test?
