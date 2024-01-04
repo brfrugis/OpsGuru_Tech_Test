@@ -17,6 +17,7 @@ Here we are going to evaluate the following techs:
 A list of technologies that combine will create a project helping us to evaluate your proficiency and speed on some techs.
 You will find that inside the folder **test** there is a python file, a simple Flask sample that must be fixed.
 We need that simple application working inside a EKS cluster on AWS.
+The access must be public so keep that in mind! We understand that you might not have a environment so don't worrie, we will run the environment and provide you the result! the public DNS and anyother external endpoint must have a documentation around what is necessary to be configured.
 Nothing can be done manually at the environment everything must be done by terraform
 
 ## Rules
